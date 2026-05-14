@@ -54,4 +54,4 @@ This work has been **officially accepted for publication (2026)**. The full cita
 * **Abdelrahman El-essawi** - *Researcher & Developer* - [@abdabdulr2005] (https://github.com/abdulr2005)
 
 ---
-© 2026 Emmy Amir. This project is part of ongoing research in AI Forensics and Computer Vision.
+© 2026 Emmy El-Sawy & Abdelrahman El-essawi. This project is part of ongoing research in AI Forensics and Computer Vision.
